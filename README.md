@@ -10,4 +10,4 @@
 
 ## Résultat de spécification de quelle implémentation IDao à utiliser pour la valeur 150.0
 
-<img width="427" height="134" alt="image" src="https://github.com/user-attachments/assets/d0837afb-5dc8-424b-a6f2-640a57b9445d" />
+<img width="427" height="134" alt="image" src="image/Capture d'écran 2026-10-12 114914.png" />
